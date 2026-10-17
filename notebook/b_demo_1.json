@@ -1,0 +1,103 @@
+{
+  "id": "b_demo_1",
+  "pages": [
+    {
+      "id": "p_demo_1",
+      "created_ts": 1790000100,
+      "elements": [
+        {
+          "id": "e_demo_1",
+          "type": "text",
+          "text": "这一页是它自己写的。",
+          "x": 24,
+          "y": 50,
+          "rotation": -2,
+          "font_size": 17,
+          "color": "#3a2a1a",
+          "struck": false,
+          "created_ts": 1790000101
+        },
+        {
+          "id": "e_demo_2",
+          "type": "text",
+          "text": "字会写歪，位置也是随手放的 —— 纸上的东西不该太整齐。",
+          "x": 24,
+          "y": 102,
+          "rotation": 1.5,
+          "font_size": 17,
+          "color": "#3a2a1a",
+          "struck": false,
+          "created_ts": 1790000102
+        },
+        {
+          "id": "e_demo_3",
+          "type": "text",
+          "text": "这一条被划掉了",
+          "x": 24,
+          "y": 160,
+          "rotation": 0,
+          "font_size": 17,
+          "color": "#3a2a1a",
+          "struck": true,
+          "struck_ts": 1790000200,
+          "created_ts": 1790000103
+        },
+        {
+          "id": "e_demo_4",
+          "type": "tape",
+          "x": 12,
+          "y": 152,
+          "rotation": -6,
+          "w": 210,
+          "h": 26,
+          "color": "#e6d3a3",
+          "opacity": 0.6,
+          "created_ts": 1790000201
+        },
+        {
+          "id": "e_demo_5",
+          "type": "svg",
+          "svg": "<svg viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'><circle cx='30' cy='30' r='22' fill='none' stroke='#b0622d' stroke-width='3'/><path d='M18 34 Q30 20 42 34' fill='none' stroke='#b0622d' stroke-width='2.5' stroke-linecap='round'/></svg>",
+          "x": 470,
+          "y": 150,
+          "rotation": 5,
+          "w": 90,
+          "h": 90,
+          "created_ts": 1790000202
+        },
+        {
+          "id": "e_demo_6",
+          "type": "text",
+          "text": "翻下一页看看。",
+          "x": 24,
+          "y": 250,
+          "rotation": -1,
+          "font_size": 17,
+          "color": "#3a2a1a",
+          "struck": false,
+          "created_ts": 1790000203
+        }
+      ]
+    },
+    {
+      "id": "p_demo_2",
+      "created_ts": 1790000300,
+      "elements": [
+        {
+          "id": "e_demo_7",
+          "type": "text",
+          "text": "第二页。写满了会自动翻页，一本写满会自动换新的一本。",
+          "x": 24,
+          "y": 50,
+          "rotation": 2,
+          "font_size": 17,
+          "color": "#3a2a1a",
+          "struck": false,
+          "created_ts": 1790000301
+        }
+      ]
+    }
+  ],
+  "current": 1,
+  "bookmarks": []
+}

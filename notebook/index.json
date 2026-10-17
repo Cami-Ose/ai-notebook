@@ -1,0 +1,17 @@
+{
+  "books": [
+    {
+      "id": "b_demo_1",
+      "title": "第一本",
+      "created_ts": 1790000000,
+      "closed_ts": null,
+      "pages_per_book": 24,
+      "size": { "w": 900, "h": 600 },
+      "cover": {
+        "kind": "svg",
+        "data": "<svg viewBox='0 0 420 320' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='8' width='404' height='304' rx='10' fill='none' stroke='#7a5c3a' stroke-width='3'/><rect x='20' y='20' width='380' height='280' rx='6' fill='none' stroke='#c0a175' stroke-width='1.5' stroke-dasharray='6 5'/><circle cx='210' cy='124' r='50' fill='none' stroke='#b0622d' stroke-width='3'/><path d='M178 172 Q210 146 242 172' fill='none' stroke='#b0622d' stroke-width='3' stroke-linecap='round'/><path d='M132 234 h156' stroke='#8a6a44' stroke-width='2' stroke-linecap='round'/><path d='M160 254 h100' stroke='#8a6a44' stroke-width='1.6' stroke-linecap='round'/></svg>"
+      }
+    }
+  ],
+  "current": "b_demo_1"
+}

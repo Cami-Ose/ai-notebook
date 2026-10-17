@@ -1,0 +1,10 @@
+{
+  "host": "127.0.0.1",
+  "port": 8770,
+
+  "llm": {
+    "base_url": "https://api.openai.com/v1",
+    "api_key": "",
+    "model": ""
+  }
+}
